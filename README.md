@@ -1,4 +1,4 @@
-# Simple_shell
+# Simple_shell :shell:
 #### This is a Team Project between Peace Aielumoh and Moshood Balogun, it is aimed at practicing pair programming.
 
 ### Description
